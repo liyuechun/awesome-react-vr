@@ -68,5 +68,8 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ## Contact Me
 
-WeChat：liyc1215
-QQ： 939442932·
+- WeChat：liyc1215
+- QQ： 939442932
+- Email: liyuechun2009@163.com
+
+
