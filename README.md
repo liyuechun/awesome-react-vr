@@ -68,5 +68,5 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ## Contact Me
 
-微信：liyc1215
-QQ： 939442932
+WeChat：liyc1215
+QQ： 939442932·
