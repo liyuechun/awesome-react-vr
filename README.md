@@ -59,6 +59,10 @@ Conferences dedicated to React Native specifically. A listing of React general c
 ](https://facebook.github.io/react-vr/)
 - [Building virtual reality experiences on the web with React VR](https://code.facebook.com/posts/215238872297197/building-virtual-reality-experiences-on-the-web-with-react-vr/)
 
+## open-source
+- [aframe-react  ★458](https://github.com/aframevr/aframe-react)
+- [alibaba/rax  ★2796](https://github.com/alibaba/rax)
+
 ## demos
 
 - [Controller](https://github.com/liyuechun/react-vr/tree/master/Controller)
