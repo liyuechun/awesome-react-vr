@@ -2,9 +2,9 @@
 
 ## Buzzing
 
-| Introduction to React.js        | Introduction to React Native           | Introduction to ReactVR  |
-| :-------------: |:-------------:| :-----:|
-| https://www.youtube.com/watch?v=XxVg_s8xAms&feature=youtu.be    | https://youtu.be/KVZ-P-ZI6W4?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr | https://www.youtube.com/watch?v=CtVo3z_o9Rw |
+| Introduction to React.js        | Introduction to React Native           | Introduction to ReactVR | What is WebVR？ |
+| :-------------: |:-------------:| :-----:| :-----:|
+| https://www.youtube.com/watch?v=XxVg_s8xAms&feature=youtu.be    | https://youtu.be/KVZ-P-ZI6W4?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr | https://www.youtube.com/watch?v=CtVo3z_o9Rw | https://youtu.be/Le8pTXQqM3s |
 
 Have something that belongs under "Buzzing"? drop me a line: liyuechun2009@163.com.
 
@@ -63,5 +63,3 @@ Conferences dedicated to React Native specifically. A listing of React general c
 - WeChat：liyc1215
 - QQ： 939442932
 - Email: liyuechun2009@163.com
-
-
