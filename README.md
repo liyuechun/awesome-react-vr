@@ -36,12 +36,19 @@ http://www.react-vr.org
 ## BBS
 http://bbs.react-vr.org
 
-## Conferences
+## conferences
 
 Conferences dedicated to React Native specifically. A listing of React general conferences can be found on the [ReactJS site](https://facebook.github.io/react/docs/conferences.html).
 
-## articles
 
+## libraries
+- [react.js](https://facebook.github.io/react/)
+- [react-native](http://facebook.github.io/react-native/)
+- [three.js](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
+
+
+
+## articles
 
 - [Build VR websites and interactive 360 experiences with React
 ](https://facebook.github.io/react-vr/)
