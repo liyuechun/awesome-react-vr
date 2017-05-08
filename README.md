@@ -54,6 +54,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 ](https://facebook.github.io/react-vr/)
 - [Building virtual reality experiences on the web with React VR](https://code.facebook.com/posts/215238872297197/building-virtual-reality-experiences-on-the-web-with-react-vr/)
 - [thinkmobiles.com](https://thinkmobiles.com/blog/how-to-make-react-vr-app/?utm_expid=136192882-2.sZ0a0re7RTSr966GdaeciA.0&utm_referrer=https%3A%2F%2Fgithub.com%2Fthinkmobiles%2FReactVR_TMexample)
+- [https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps](https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps)
 
 ## open-source
 - [aframe-react  ★458](https://github.com/aframevr/aframe-react)
