@@ -14,7 +14,6 @@ Have something that belongs under "Buzzing"? drop me a line: liyuechun2009@163.c
 - [React VR BBS](#BBS)
 - [Conferences](#conferences)
 - [Articles](#articles)
-- [Internals](#internals)
 - [Components](#components)
 - [Navigation](#navigation)
 - [Utilities](#utilities)
@@ -31,10 +30,13 @@ Have something that belongs under "Buzzing"? drop me a line: liyuechun2009@163.c
 
 
 ##  中文网
-http://www.react-vr.org
+- [http://www.react-vr.org](http://www.react-vr.org)
 
 ## BBS
-http://bbs.react-vr.org
+- [http://bbs.react-vr.org](http://bbs.react-vr.org)
+- [https://www.facebook.com/groups/ARVRMR/?fref=ts](https://www.facebook.com/groups/ARVRMR/?fref=ts)
+- [https://www.linkedin.com/groups/8107633](https://www.linkedin.com/groups/8107633)
+- [https://github.com/facebook/react-vr/issues](https://github.com/facebook/react-vr/issues)
 
 ## conferences
 
@@ -50,11 +52,11 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ## articles
 
-- [Build VR websites and interactive 360 experiences with React
-](https://facebook.github.io/react-vr/)
+- [Build VR websites and interactive 360 experiences with React](https://facebook.github.io/react-vr/)
 - [Building virtual reality experiences on the web with React VR](https://code.facebook.com/posts/215238872297197/building-virtual-reality-experiences-on-the-web-with-react-vr/)
 - [thinkmobiles.com](https://thinkmobiles.com/blog/how-to-make-react-vr-app/?utm_expid=136192882-2.sZ0a0re7RTSr966GdaeciA.0&utm_referrer=https%3A%2F%2Fgithub.com%2Fthinkmobiles%2FReactVR_TMexample)
 - [https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps](https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps)
+
 
 ## open-source
 - [aframe-react  ★458](https://github.com/aframevr/aframe-react)
