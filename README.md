@@ -8,6 +8,9 @@
 
 Have something that belongs under "Buzzing"? drop me a line: liyuechun2009@163.com.
 
+## Design sketch
+- [https://krpano.com/tours/paris/](https://krpano.com/tours/paris/)
+
 ## Sections
 
 - [React VR 中文网](#中文网)
@@ -47,6 +50,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 - [react.js](https://facebook.github.io/react/)
 - [react-native](http://facebook.github.io/react-native/)
 - [three.js](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
+- [aframe-text-geometry-component](https://www.npmjs.com/package/aframe-text-geometry-component)
 
 
 
@@ -56,6 +60,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 - [Building virtual reality experiences on the web with React VR](https://code.facebook.com/posts/215238872297197/building-virtual-reality-experiences-on-the-web-with-react-vr/)
 - [thinkmobiles.com](https://thinkmobiles.com/blog/how-to-make-react-vr-app/?utm_expid=136192882-2.sZ0a0re7RTSr966GdaeciA.0&utm_referrer=https%3A%2F%2Fgithub.com%2Fthinkmobiles%2FReactVR_TMexample)
 - [https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps](https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps)
+- [https://aframe.io/examples/showcase/hello-metaverse/](https://aframe.io/examples/showcase/hello-metaverse/)
 
 
 ## open-source
