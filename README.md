@@ -61,12 +61,14 @@ Conferences dedicated to React Native specifically. A listing of React general c
 - [thinkmobiles.com](https://thinkmobiles.com/blog/how-to-make-react-vr-app/?utm_expid=136192882-2.sZ0a0re7RTSr966GdaeciA.0&utm_referrer=https%3A%2F%2Fgithub.com%2Fthinkmobiles%2FReactVR_TMexample)
 - [https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps](https://www.codeproject.com/Articles/1185234/How-to-Make-React-VR-Apps)
 - [https://aframe.io/examples/showcase/hello-metaverse/](https://aframe.io/examples/showcase/hello-metaverse/)
+- [https://www.pluralsight.com/guides/front-end-javascript/getting-started-with-react-vr](https://www.pluralsight.com/guides/front-end-javascript/getting-started-with-react-vr)
 
 
 ## open-source
 - [aframe-react  ★458](https://github.com/aframevr/aframe-react)
 - [alibaba/rax  ★2796](https://github.com/alibaba/rax)
 - [ReactVR_TMexample](https://github.com/thinkmobiles/ReactVR_TMexample)
+- [earth-moon-vr](https://github.com/eh3rrera/earth-moon-vr)
 
 ## demos
 
@@ -74,11 +76,11 @@ Conferences dedicated to React Native specifically. A listing of React general c
 - [ModelSample](https://github.com/liyuechun/react-vr/tree/master/ModelSample)
 - [VideoSample](https://github.com/liyuechun/react-vr/tree/master/VideoSample)
 - [VideoSample360](https://github.com/liyuechun/react-vr/tree/master/VideoSample360)
+- [react-vr-exmaple](https://github.com/JackPu/react-vr-exmaple)
 
 ## Contact Me
 
-- WeChat：liyc1215
-- QQ： 939442932
-- Email: liyuechun2009@163.com
+<center ><img style="width:200px;height:200px" src="http://orhm8wuhd.bkt.clouddn.com/WechatIMG12.jpeg"/></center>
+<center><h6>扫一扫关注`21点见`服务号</h6></center>
 
 
